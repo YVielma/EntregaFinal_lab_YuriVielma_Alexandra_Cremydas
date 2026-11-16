@@ -170,8 +170,9 @@ Criterios usados, en orden:
 2. **La corrida con más semillas** en el semillerío final, porque reduce la variación debida al azar.
 3. Que su valor público esté cerca del valor típico de ese corte entre todas las corridas, y no sea un pico.
 
-**Envío elegido:** `KA9707_s150_1800.csv` (experimento 9707, semilla primigenia 621749, semillerío final de 150 semillas, corte 1800).
-Ganancia en el leaderboard público: **97.279**.
+**Envío elegido:** `KA9750_s250_1800.csv` (experimento 9750, semilla primigenia 523867, semillerío final de 250 semillas, corte 1800).
+Script que lo genera: `scripts_trabajo/z9750_like9737_sem250_s523867.ipynb` (script base 9737 con semillerío final de 250).
+Ganancia en el leaderboard público: **94.039**.
 Se adjunta el CSV correspondiente.
 
 ## 7. Consideraciones
