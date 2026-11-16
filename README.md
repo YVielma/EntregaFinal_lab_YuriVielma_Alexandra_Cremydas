@@ -194,7 +194,7 @@ Se adjunta el CSV correspondiente.
 
 ### Estructura del repositorio
 
-Repositorio de la competencia final: _pendiente_
+Repositorio de la competencia final: https://github.com/YVielma/EntregaFinal_lab_YuriVielma_Alexandra_Cremydas
 
 | Carpeta / archivo | Contenido |
 |---|---|
